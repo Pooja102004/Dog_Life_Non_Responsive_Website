@@ -1,0 +1,59 @@
+
+.collapse .btn:hover {
+    background: gray;
+    width: auto;
+    border-radius: 10px;
+    color: #10bdbd;
+}
+body{
+    background: #10bdbd !important;
+}
+.carousel .carousel-inner .carousel-item .imagetest {
+    margin-left: 105px;
+    width: 1326px;
+    height: 425px;
+}
+.sec-1{
+    background-color: antiquewhite;
+}
+
+.secimg{
+    margin-top: 22px;
+    margin-left: 68px;
+    height: 337px;
+}
+
+.sec1img{
+
+}
+.container .row .col .colh1:hover{
+    color: whitesmoke;
+}
+.container .row .col .colh1 {
+    margin-top: 10px;
+    text-align: left;
+    color: red;
+    margin-left: 25px;
+}
+.container .row .col .colh2{
+    text-align: left;
+    margin-left: 10px;
+    font-size: 24px;
+} 
+.container .row .col .colp {
+    text-align: left;
+    margin-left: 10px;
+    font-size: 12px;
+}
+.container .row .cont1:hover {
+    color: whitesmoke;
+    background-color: red;
+}
+.container .row .cont1 {
+    padding: 10px;
+    margin: 57px;
+    border: 2px solid black;
+    height: 188px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
